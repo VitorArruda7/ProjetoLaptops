@@ -4,7 +4,7 @@
 <br>Projeto Scraping Laptops
 </h1>
 
-<h3>◦ Ferramentas utilizadas a seguir.</h3>
+<h3>◦ Ferramentas utilizadas.</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style&logo=Python&logoColor=white" alt="Python" />
